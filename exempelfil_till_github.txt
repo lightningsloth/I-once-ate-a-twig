@@ -1,0 +1,2 @@
+Testar att addera en fil till GitHub som en del av lab, kurs 2, modul 5. 
+
